@@ -6,7 +6,7 @@ Este fichero recoge los ejercicios realizados durante el curso.
 
 
 Enlaces ejercicios:
-+ Enlace 1
++ Ejercicio 1. GIT & VERSION CONTROL: https://github.com/juditcivit/git_test/pulse
 + Enlace 2
 + Enlace 3
 + Enlace 4
