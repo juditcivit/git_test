@@ -1,3 +1,3 @@
-hello Barcelona!
-ciao world
-hola Milano
+Hello world!
+Hola Barcelona!
+Ciao Milano!
