@@ -1,3 +1,5 @@
+/*USFLIGHTS EXERCICE*/
+
 /* 1.Quantitat de registres de la taula de vols: */
 SELECT count(*) FROM usairlineflights.flight;
 
